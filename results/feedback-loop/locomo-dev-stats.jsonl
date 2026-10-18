@@ -1,0 +1,6 @@
+{"conv": "conv-26", "arm": "clean", "memories": 19, "chunks": 241, "facts": 178, "chunks_with_recalled_text": 0, "facts_with_earlier_twin": 75}
+{"conv": "conv-26", "arm": "polluted", "memories": 19, "chunks": 499, "facts": 398, "chunks_with_recalled_text": 259, "facts_with_earlier_twin": 323}
+{"conv": "conv-26", "arm": "markers", "memories": 19, "chunks": 241, "facts": 175, "chunks_with_recalled_text": 50, "facts_with_earlier_twin": 73}
+{"conv": "conv-30", "arm": "clean", "memories": 19, "chunks": 168, "facts": 157, "chunks_with_recalled_text": 0, "facts_with_earlier_twin": 98}
+{"conv": "conv-30", "arm": "polluted", "memories": 19, "chunks": 406, "facts": 371, "chunks_with_recalled_text": 238, "facts_with_earlier_twin": 317}
+{"conv": "conv-30", "arm": "markers", "memories": 19, "chunks": 169, "facts": 136, "chunks_with_recalled_text": 57, "facts_with_earlier_twin": 81}
